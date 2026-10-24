@@ -9,7 +9,7 @@ Laboratório de aprendizagem de lógica de programação e algoritmos, com ferra
 Ambiente utilizado para apoiar o aprendizado de lógica de programação e a construção de algoritmos.
 
 - [Acessar o site oficial do Design Líquido](https://designliquido.com.br/)
-- [Acessar os arquivos do Design Líquido para VS Code](./design_liquido/)
+- [Acessar os arquivos do Design Líquido para VS Code](./design%20liquido/)
 
 ### Visualg 2.5
 
